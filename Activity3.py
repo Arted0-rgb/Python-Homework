@@ -1,0 +1,5 @@
+my_word=("mitochondria")
+print(my_word.upper())
+print(my_word.lower())
+print(my_word[0:4])
+print(my_word[9:])
