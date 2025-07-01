@@ -1,0 +1,5 @@
+Sentence = ("The duck swims very fast in the rapid water")
+print("duck" in Sentence)       
+print("swims" in Sentence)       
+print("goose" not in Sentence)   
+print("calm" not in Sentence)    
